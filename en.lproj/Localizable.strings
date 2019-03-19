@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  荷包君
+
+  Created by elijah tam on 2019/3/19.
+  Copyright © 2019 elijah tam. All rights reserved.
+*/
+"confirm" = "confirm";
+"test message" = "測試訊息";

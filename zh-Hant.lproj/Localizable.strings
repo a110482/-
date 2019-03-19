@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  荷包君
+
+  Created by elijah tam on 2019/3/19.
+  Copyright © 2019 elijah tam. All rights reserved.
+*/
+"confirm" = "確認";
+"system" = "系統";
+"test message" = "測試訊息";
+"database create error" = "資料庫建立物件失敗";
